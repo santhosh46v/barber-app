@@ -26,15 +26,17 @@
    cd barber-app
 
 2. Install dependencies:
+   
    npm install
-   # or
+      or
    yarn install
 
-3. Start the app:
+4. Start the app:
+   
    npx expo start
 
 5. Run on device/emulator:
    
-   • Android: press a or scan QR with Expo Go
-   • iOS: press i or scan QR with Expo Go
-   • Web: press w
+   - Android: press a or scan QR with Expo Go
+   - iOS: press i or scan QR with Expo Go
+   - Web: press w
